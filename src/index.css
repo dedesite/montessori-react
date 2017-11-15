@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+@font-face {
+  font-family: "Cursive standard";
+  src: url("./fonts/Cursive standard Bold.ttf");
+}
